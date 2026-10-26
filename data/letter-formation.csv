@@ -1,0 +1,27 @@
+letter,uppercase_strokes,lowercase_strokes,start_point,common_error,fix,is_descender,is_ascender
+a,"1: circle, then a short vertical","close the bowl at the top, then drop straight down",top of the bowl,the last stroke curls back up instead of closing and dropping,"close the bowl, then one straight drop",0,0
+b,"1: vertical down, 2: back up into the bowl","vertical down, back up into the bowl",top of the stem,"the bowl is drawn first, so the stem leans","straight down first, then come back up and out",0,1
+c,1: open curve from the top right,open curve from the top right,top right,"starts at the bottom and stops halfway, leaving a hook","start at the top right, one unbroken sweep",0,0
+d,"1: bowl, 2: vertical down","bowl first, then the vertical",top of the bowl,"the stem is drawn first, the way b is","bowl first, then the straight drop",0,1
+e,"1: loop, 2: crossbar","loop, then the crossbar on the midline",just below the midline,the crossbar floats and the tail closes into an o,"bar on the midline, tail stops short of closing",0,0
+f,"1: hook down, 2: crossbar","hook down, then the crossbar","top, curving right",the tail is sent below the line like a g,"the hat goes up, the tail stays on the baseline",0,1
+g,"1: circle, 2: hook below the line","circle, then the hook below the line",top of the circle,below the line the child draws a second full circle,"a shadow hook, one dip, then back up",1,0
+h,"1: vertical down, 2: back up, shoulder","vertical down, back up, shoulder",top of the stem,the shoulder starts halfway up the stem,"full stem to the baseline, shoulder in the middle",0,1
+i,"1: short vertical, 2: dot","short vertical, lift, then one dot",just below the midline,the dot is added without lifting the pencil,"finish the stem, lift, then one dot",0,0
+j,"1: vertical below the line, 2: hook, 3: dot","vertical below the line, hook, lift, dot",midline,"written as an i that got long, hook drawn last",the only letter that dives below the line then comes back for the dot,1,0
+k,"1: vertical, 2: up-stroke, 3: down-stroke","vertical, up-stroke, down-stroke",top of the stem,the two diagonals meet at the baseline,"three lines, one meeting point at the middle",0,1
+l,1: single vertical,single vertical,top of the stem,a hook gets added at the bottom,"one straight line, top to baseline",0,1
+m,"1: vertical, 2: hump, 3: hump","vertical, hump, hump",top of the stem,the two humps end up different heights,"two humps the same, last stroke a plain drop",0,0
+n,"1: vertical, 2: hump","vertical, hump",top of the stem,the second leg stops before the baseline,"one hump, the leg finishes on the line",0,0
+o,1: single closed circle,single closed circle,top,a second stroke is added on top to close the gap,"one stroke, closed where it started",0,0
+p,"1: vertical below the line, 2: bowl","vertical below the line, then the bowl",top of the stem,"the bowl is put below the line, making a g","the bowl sits on top, the stem drops",1,0
+q,"1: circle, 2: vertical below the line","circle, then the vertical below the line",top of the circle,it turns into a g because the bowl closes at the bottom,"bowl, straight drop, then a short foot",1,0
+r,"1: vertical, 2: short arm","vertical, short arm",top of the stem,"the arm is drawn as a whole hump, so it reads as n","stem, then a short arm that never reaches the baseline",0,0
+s,1: one reversing curve,one reversing curve,top right,built as two separate curves and the join shows,one stroke that reverses direction,0,0
+t,"1: vertical, 2: crossbar","vertical, crossbar",above the midline,"the crossbar is placed at the very top, like an f","bar above the middle, stem through it, foot on the baseline",0,1
+u,"1: down, round, up, straight","down, round the bottom, back up, straight",top,"the last stroke curves out, so it looks like a y",finish straight,0,0
+v,"1: down to a point, 2: up","down to a point, up",top left,the bottom is rounded off into a u,the point has to be a point,0,0
+w,"1: down, 2: up, 3: down, 4: up","four strokes, three turns",top left,the middle point sags below the two outer ones,middle point level with its neighbours,0,0
+x,"1: diagonal, 2: crossing diagonal",two diagonals that cross,top left,the two strokes are laid side by side and never cross,"two deliberate collisions, meeting at the midline",0,0
+y,"1: short diagonal, 2: long diagonal below the line","short diagonal, long diagonal below the line",top left,the tail stops at the baseline instead of dropping,"dive below the line, then slant back up",1,0
+z,"1: top bar, 2: diagonal, 3: bottom bar","top bar, diagonal, bottom bar",top left,"the diagonal is drawn as a curve, like a stretched s",two square corners and one straight diagonal,0,0
